@@ -1,19 +1,22 @@
-# [Camille Mauban](https://github.com/cmauban)
+# [Lacey Rice](https://github.com/Ricecoder)
 
-![Camille Mauban](http://i.imgur.com/qHRoVzD.jpg?1)]
+[![Lacey Rice](https://avatars0.githubusercontent.com/u/13753919?v=3&s=460)] (https://github.com/Ricecoder) 
+
+#[Ricecoder] (https://github.com/Ricecoder)
+
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Raleigh, NC |
+| _:house:_ | Vero Beach, Florida |
 | _:dog: or :cat:_ | :bird: :snake: |
-| _:birthday:_ | _:09/02/1990:_ |
+| _:birthday:_ | _:calendar:_ |
 
 ## Faves! :v:
 
 | category | value |
 |----------|--------|
-| _sport_  | Football|
-| _team_   | Packers|
+| _sport_  | :football: :basketball: etc |
+| _team_   | --- |
 | _drink_  | :beer: :wine_glass: |
 | _food_   | --- |
 | _movie_  | --- |

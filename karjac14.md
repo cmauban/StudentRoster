@@ -1,20 +1,20 @@
-# [Camille Mauban](https://github.com/cmauban)
+# [Karlo Eleuterio](https://github.com/karjac14)
 
-![Camille Mauban](http://i.imgur.com/qHRoVzD.jpg?1)]
+![Karlo Eleuterio](https://avatars3.githubusercontent.com/u/8317978?v=3&s=460)]
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Raleigh, NC |
-| _:dog: or :cat:_ | :bird: :snake: |
-| _:birthday:_ | _:09/02/1990:_ |
+| _:house:_ | Philipines |
+| _:dog: or :cat:_ |  |
+| _:birthday:_ | June 01 |
 
 ## Faves! :v:
 
 | category | value |
 |----------|--------|
-| _sport_  | Football|
-| _team_   | Packers|
-| _drink_  | :beer: :wine_glass: |
+| _sport_  | :football: :basketball: etc |
+| _team_   | --- |
+| _drink_  | Milk |
 | _food_   | --- |
 | _movie_  | --- |
 | _book_  | :books: |

@@ -1,19 +1,21 @@
-# [Camille Mauban](https://github.com/cmauban)
+# [Jasmine Baik](https://github.com/boshnivolo)
 
-![Camille Mauban](http://i.imgur.com/qHRoVzD.jpg?1)]
+[![Jasmine Baik](https://avatars3.githubusercontent.com/u/13842015?v=3&s=460)] (https://github.com/boshnivolo)
+
+# [boshnivolo](https://github.com/boshnivolo)
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Raleigh, NC |
+| _:house:_ | Small Town, USA |
 | _:dog: or :cat:_ | :bird: :snake: |
-| _:birthday:_ | _:09/02/1990:_ |
+| _:birthday:_ | _:calendar:_ |
 
 ## Faves! :v:
 
 | category | value |
 |----------|--------|
-| _sport_  | Football|
-| _team_   | Packers|
+| _sport_  | :football: :basketball: etc |
+| _team_   | --- |
 | _drink_  | :beer: :wine_glass: |
 | _food_   | --- |
 | _movie_  | --- |
@@ -53,3 +55,4 @@
 | category        | value                        |
 |-----------------|------------------------------|
 | _:hand:-edness_ | :point_left: / :point_right: |
+

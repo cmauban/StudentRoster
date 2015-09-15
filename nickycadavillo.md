@@ -1,19 +1,19 @@
-# [Camille Mauban](https://github.com/cmauban)
+# [Nicky Cadavillo][https://github.com/nickycadavillo)
 
-![Camille Mauban](http://i.imgur.com/qHRoVzD.jpg?1)]
+![Nicky Cadavillo](https://avatars1.githubusercontent.com/u/11246178?v=3&s=460)]
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Raleigh, NC |
+| _:house:_ | Small Town, USA |
 | _:dog: or :cat:_ | :bird: :snake: |
-| _:birthday:_ | _:09/02/1990:_ |
+| _:birthday:_ | _:calendar:_ |
 
 ## Faves! :v:
 
 | category | value |
 |----------|--------|
-| _sport_  | Football|
-| _team_   | Packers|
+| _sport_  | :football: :basketball: etc |
+| _team_   | --- |
 | _drink_  | :beer: :wine_glass: |
 | _food_   | --- |
 | _movie_  | --- |

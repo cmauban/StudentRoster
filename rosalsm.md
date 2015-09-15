@@ -1,19 +1,19 @@
-# [Camille Mauban](https://github.com/cmauban)
+# [Rosa Lopez](https://github.com/rosalsm)
 
-![Camille Mauban](http://i.imgur.com/qHRoVzD.jpg?1)]
+[![Rosa Lopez](https://avatars1.githubusercontent.com/u/14005282?v=3&u=1b52840cdb9b1d1f19df93a02db869bc4a03ef2d&s=140)](https://github.com/rosalsm)
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Raleigh, NC |
-| _:dog: or :cat:_ | :bird: :snake: |
-| _:birthday:_ | _:09/02/1990:_ |
+| _:house:_ |Alicante, Spain |
+| _:dog: or :cat:_ | :fish: |
+| _:birthday:_ | _:calendar:_ |
 
 ## Faves! :v:
 
 | category | value |
 |----------|--------|
-| _sport_  | Football|
-| _team_   | Packers|
+| _sport_  | :tennis: |
+| _team_   | --- |
 | _drink_  | :beer: :wine_glass: |
 | _food_   | --- |
 | _movie_  | --- |

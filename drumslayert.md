@@ -1,19 +1,19 @@
-# [Camille Mauban](https://github.com/cmauban)
-
-![Camille Mauban](http://i.imgur.com/qHRoVzD.jpg?1)]
+# [Terry Calhoun](https://github.com/drumslayert)
+# [drumslayert](https://github.com/drumslayert)
+[![Terry Calhoun](https://avatars0.githubusercontent.com/u/10352970?v=3&s=460)](https://github.com/drumslayert)
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Raleigh, NC |
+| _:house:_ | Tampa, FL, USA |
 | _:dog: or :cat:_ | :bird: :snake: |
-| _:birthday:_ | _:09/02/1990:_ |
+| _:birthday:_ | _:calendar:_ |
 
 ## Faves! :v:
 
 | category | value |
 |----------|--------|
-| _sport_  | Football|
-| _team_   | Packers|
+| _sport_  | :football: :basketball: etc |
+| _team_   | --- |
 | _drink_  | :beer: :wine_glass: |
 | _food_   | --- |
 | _movie_  | --- |

@@ -1,19 +1,19 @@
-# [Camille Mauban](https://github.com/cmauban)
+# [Kristine Erickson](https://github.com/ericksonk)
 
-![Camille Mauban](http://i.imgur.com/qHRoVzD.jpg?1)]
+![Kristine Erickson](http://i.imgur.com/gi8YYlc.jpg?1)
 
 | category | value |
 |-----------|-------|
 | _:house:_ | Raleigh, NC |
 | _:dog: or :cat:_ | :bird: :snake: |
-| _:birthday:_ | _:09/02/1990:_ |
+| _:birthday:_ | _:calendar:_ |
 
 ## Faves! :v:
 
 | category | value |
 |----------|--------|
-| _sport_  | Football|
-| _team_   | Packers|
+| _sport_  | :football: :basketball: etc |
+| _team_   | --- |
 | _drink_  | :beer: :wine_glass: |
 | _food_   | --- |
 | _movie_  | --- |

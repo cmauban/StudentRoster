@@ -1,19 +1,20 @@
-# [Camille Mauban](https://github.com/cmauban)
+# [Jeremy Rist](https://github.com/jeremyrist)
+# [jeremyrist](https://github.com/jeremyrist)
 
-![Camille Mauban](http://i.imgur.com/qHRoVzD.jpg?1)]
+![Jeremy Rist](https://avatars3.githubusercontent.com/u/13407041?v=3&s=460)(https://github.com/jeremyrist)
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Raleigh, NC |
+| _:house:_ |Durham, USA |
 | _:dog: or :cat:_ | :bird: :snake: |
-| _:birthday:_ | _:09/02/1990:_ |
+| _:birthday:_ | _:calendar:_ |
 
 ## Faves! :v:
 
 | category | value |
 |----------|--------|
-| _sport_  | Football|
-| _team_   | Packers|
+| _sport_  | :football: :basketball: etc |
+| _team_   | --- |
 | _drink_  | :beer: :wine_glass: |
 | _food_   | --- |
 | _movie_  | --- |

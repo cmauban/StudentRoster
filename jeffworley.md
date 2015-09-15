@@ -1,19 +1,21 @@
-# [Camille Mauban](https://github.com/cmauban)
+# [J.R. Worley](https://github.com/jeffworley)
 
-![Camille Mauban](http://i.imgur.com/qHRoVzD.jpg?1)]
+### [username: jeffworley](https://github.com/jeffworley)
+
+[![J.R. Worley](https://avatars.githubusercontent.com/jeffworley)](https://github.com/jeffworley)
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Raleigh, NC |
+| _:house:_ | Small Town, USA |
 | _:dog: or :cat:_ | :bird: :snake: |
-| _:birthday:_ | _:09/02/1990:_ |
+| _:birthday:_ | _:calendar:_ |
 
 ## Faves! :v:
 
 | category | value |
 |----------|--------|
-| _sport_  | Football|
-| _team_   | Packers|
+| _sport_  | :football: :basketball: etc |
+| _team_   | --- |
 | _drink_  | :beer: :wine_glass: |
 | _food_   | --- |
 | _movie_  | --- |
